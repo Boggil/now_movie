@@ -3,4 +3,7 @@
 
 ---
 
-사용한 API
+## 사용한 API
+[영화진흥위원회 오픈API](http://www.kobis.or.kr/kobisopenapi/homepg/main/main.do)
+
+[The Movie DataBase](https://developers.themoviedb.org/3/search/search-movies)
